@@ -1,5 +1,9 @@
 <html>
 <head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta charset="UTF-8">
+<title>Flicker</title>
+<link rel="shortcut icon" href="flicker.icon.png?rev=<?=time();?>" type="image/x-icon">
 <style>
 body {
   background-size: cover;
